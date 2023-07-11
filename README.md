@@ -7,16 +7,16 @@
 
 - These days, I'm enjoying relative peace and quiet while finishing a degree in Computer Programming!
 
-- I have experience administering large private servers for MMORPGs, building tabletop gaming systems, and creating music.  My current project is a trading card game called The Burning Dawn.
+- I have experience administering and developing private servers for MMORPGs including Final Fantasy XI and World of Warcraft, building tabletop gaming systems, and creating music.  My current project is a trading card game called The Burning Dawn.
 
 - Just getting back into the Final Fantasy XI emulation scene, currently contributing to LandSandBoat.
 
-- I'd consider my skills slightly above beginner in Lua, C++, and SQL.  I am extremely comfortable with HTML5, CSS, and PHP.
+- I'd consider my skills slightly above moderate in Lua, C++, and SQL, although I am always learning.  I am extremely comfortable with HTML5, CSS, and PHP.
 
 - Feel free to reach out to me at **admin@gweivyth.com** or any of the below platforms.
 
-<h3 align="left">Connect with me:</h3>
+<center><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gweivyth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gweivyth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gweivyth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gweivyth" height="30" width="40" /></a>
-</p>
+</p></center>
