@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gweivyth&label=Profile%20views&color=0e75b6&style=flat" alt="gweivyth" /> </p>
 
-- I used to own <a href="https://wingsxi.com/" target="_blank">WingsXI</a> until January 2023.
+- I used to own <a href="https://wingsxi.com/" target="_blank">WingsXI</a> until January 2023.  Much of my development history there can be found over on my <a href="https://gitlab.com/Gweivyth" target="_blank">Gitlab,</a> which is my primary git platform.
 
 - These days, I'm enjoying relative peace and quiet while finishing a degree in Computer Programming!
 
