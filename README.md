@@ -7,6 +7,8 @@
 
 - These days, I'm enjoying relative peace and quiet while finishing a degree in Computer Programming!
 
+- I have experience administering large private servers for MMORPGs, building tabletop gaming systems, and creating music.  My current project is a trading card game called The Burning Dawn.
+
 - Just getting back into the Final Fantasy XI emulation scene, currently contributing to LandSandBoat.
 
 - I'd consider my skills slightly above beginner in Lua, C++, and SQL.  I am extremely comfortable with HTML5, CSS, and PHP.
