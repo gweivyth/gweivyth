@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alex.</h1>
-<h3 align="center">I enjoy building great experiences.</h3>
+<h1 align="center">Hi internet denizens!</h1>
+<h3 align="center">I'm Alex, and I love building games!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gweivyth&label=Profile%20views&color=0e75b6&style=flat" alt="gweivyth" /> </p>
 
-- 🔭 I’m currently working on [LandSandBoat.](https://github.com/LandSandBoat/server)
+- I used to own <a href="https://wingsxi.com/" target="_blank">WingsXI</a> until January 2023.
 
-- 👯 I’m looking to collaborate on **Final Fantasy XI emulation.**
+- These days, I'm enjoying relative peace and quiet while finishing a degree in Computer Programming!
 
-- 🤝 I’m looking for help with **learning more!**
+- Just getting back into the Final Fantasy XI emulation scene, currently contributing to LandSandBoat.
 
-- 📫 How to reach me **admin@gweivyth.com**
+- I'd consider my skills slightly above beginner in Lua, C++, and SQL.  I am extremely comfortable with HTML5, CSS, and PHP.
+
+- Feel free to reach out to me at **admin@gweivyth.com** or any of the below platforms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
