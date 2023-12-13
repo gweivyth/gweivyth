@@ -1,5 +1,5 @@
-<h1 align="center">Hi internet denizens!</h1>
-<h3 align="center">I'm Alex, and I love building games!</h3>
+<h1 align="center">Welcome!</h1>
+<h3 align="center">I'm Alex, and I love building software!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gweivyth&label=Profile%20views&color=0e75b6&style=flat" alt="gweivyth" /> </p>
 
