@@ -5,7 +5,7 @@
 
 - I used to own <a href="https://wingsxi.com/" target="_blank">WingsXI</a> until January 2023.  Much of my development history there can be found over on my <a href="https://gitlab.com/Gweivyth" target="_blank">Gitlab,</a> which was my primary git platform during this time.
 
-- I'm actively seeking employment opportunities in programming or programming-adjacent fields!
+- I'm currently a community manager for a game with over 300,000 active monthly users.
 
 - My primary programming languages are Lua, C++, C#, HTML5/CSS, SQL, Python, Javascript, and Visual Basic.
 
